@@ -1,7 +1,7 @@
 <!-- Welcome to Harsh's Vibe Coding Space 🚀 -->
 
 <p align="center">
-  <img src="https://www.instagram.com/p/DG29AekSAm8ZUkBraicvyP8VUnnRdkv9NfMb_s0/?img_index=1" alt="Harsh Avatar" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #ffb6c1, 0 0 40px #e75480;">
+  <img src="https://avatars.githubusercontent.com/u/harsh2027-eng?v=4" alt="Harsh Avatar" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #e75480, 0 0 40px #F48C06;"/>
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=F48C06&center=true&vCenter=true&width=435&lines=   Java+%7C+Python+%7C+AI+Enthusiast;Vibe+Coding+is+Life;Always+Exploring+New+Tech+!;Let's+Connect+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=F48C06&center=true&vCenter=true&width=435&lines=Java+Wizard+🧙‍♂️;Python+Pro+🐍;AI+Enthusiast+🤖;Vibe+Coding+Space+🌸" />
 </p>
 
 ---
@@ -23,6 +23,31 @@
 
 ---
 
+## ☕️ **Java Zone** 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+**Java Skills:**  
+- Spring Boot, REST APIs, Microservices  
+- JavaFX, Swing (UI/UX)  
+- Maven, Gradle, JUnit  
+- Multithreading, Collections, Streams  
+- Database: MySQL, MongoDB  
+- Deployments: Docker, Cloud
+
+**Java Achievements:**  
+- Built scalable APIs with Spring Boot  
+- Created custom Java desktop apps  
+- Automated workflows with Java scripting  
+- Explored AI/ML integrations with Java
+
+**Featured Java Project:**  
+- [Java Spring Boot Starter](https://github.com/harsh2027-eng/) — Fast and easy API setup with Java
+
+---
+
 ## 🎨 **Languages & Tools**
 
 <p align="center">
@@ -32,13 +57,14 @@
   <img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AI-Vibes-8000FF?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Development-03C988?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dark-Theme-1A1A2E?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## ⚡ **GitHub Vibes**
 
-<p align="center">
+<p align="center" style="background:#1A1A2E;padding:10px;border-radius:12px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh2027-eng&show_icons=true&theme=tokyonight&title_color=F48C06&icon_color=E75480" alt="Harsh's GitHub Stats"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh2027-eng&theme=tokyonight&ring=F48C06&fire=E75480" alt="GitHub Streak"/>
@@ -52,8 +78,6 @@
 
 - [AI Vibe Chatbot](https://github.com/harsh2027-eng/) — Fun chatbot powered by Python & OpenAI API
 - [Java Spring Boot Starter](https://github.com/harsh2027-eng/) — Fast and easy API setup with Java
-
-*Add your project links above!*
 
 ---
 

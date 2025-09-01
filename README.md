@@ -9,7 +9,7 @@
     <text x="90" y="150" text-anchor="middle" font-size="16" fill="#8000FF" font-family="Roboto, monospace">AI 🤖</text>
   </svg>
   <br>
-  <img src="https://avatars.githubusercontent.com/u/1003928020?v=4" alt="Harsh Avatar" width="120" style="border-radius: 50%; box-shadow: 0 0 20px #e75480, 0 0 40px #F48C06;"/>
+  <img src="https://github.com/settings/profile" alt="Harsh Avatar" width="120" style="border-radius: 50%; box-shadow: 0 0 20px #e75480, 0 0 40px #F48C06;"/>
 </p>
 
 <h1 align="center">

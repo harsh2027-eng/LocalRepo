@@ -4,7 +4,6 @@
   <!-- Custom Avatar SVG (Java, Python, AI Enthusiast) -->
   <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="90" cy="90" r="85" fill="#1A1A2E" stroke="#F48C06" stroke-width="6"/>
-    <text x="90" y="80" text-anchor="middle" font-size="24" fill="#e75480" font-family="Roboto, monospace">Harsh</text>
     <text x="90" y="110" text-anchor="middle" font-size="16" fill="#03C988" font-family="Roboto, monospace">Java 🧙‍♂️</text>
     <text x="90" y="130" text-anchor="middle" font-size="16" fill="#4B8BBE" font-family="Roboto, monospace">Python 🐍</text>
     <text x="90" y="150" text-anchor="middle" font-size="16" fill="#8000FF" font-family="Roboto, monospace">AI 🤖</text>
